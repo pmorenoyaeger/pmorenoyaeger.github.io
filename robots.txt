@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://pmorenoyaeger.github.io/sitemap.xml
