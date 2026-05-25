@@ -6,7 +6,7 @@ subtitle: Volcanologist & Geochronologist
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: photo1.jpg
   image_circular: false
   more_info: >
     <p>University of Wisconsin–Madison</p>
