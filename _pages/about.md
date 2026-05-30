@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Volcanologist & Geochronologist
+subtitle: Geochronologist, Geochemist, and Volcanologist
 
 profile:
   align: right
