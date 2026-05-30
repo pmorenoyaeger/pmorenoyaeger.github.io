@@ -25,6 +25,8 @@ latest_posts:
   limit: 3
 ---
 
-I am a volcanologist and geochronologist interested in magma plumbing systems, eruptive histories, and volcano–ice interactions.
+I am a geochronologist and geochemist interested in magma plumbing systems, eruptive histories, and the internal and external processes that trigger volcanic eruptions.
 
-I recently completed my PhD at the University of Wisconsin–Madison. My research integrates ⁴⁰Ar/³⁹Ar geochronology, geochemistry, thermobarometry, and field volcanology to investigate how volcanic systems evolve through time.
+I recently earned my PhD in Geoscience from the University of Wisconsin–Madison. My research integrates <sup>40</sup>Ar/<sup>39</sup>Ar, <sup>3</sup>He, <sup>14</sup>C, and <sup>36</sup>Cl geochronology geochronology w geochronology, geochemistry, thermobarometry, and field volcanology to investigate how magma storage and transport evolve through time, and how volcanic systems respond to environmental changes such as glaciation and deglaciation.
+
+As a Chilean first-generation college student, I am passionate about expanding access to geoscience education and creating opportunities for students from diverse backgrounds to participate in Earth science research. Through my teaching, mentoring, and outreach activities, I strive to make geoscience more accessible and inclusive for future generations of scientists.
