@@ -7,7 +7,13 @@
 body {
   padding-bottom: 70px;
   color: var(--global-text-color);
-  background-color: var(--global-bg-color);
+  background:
+    linear-gradient(rgba(255, 255, 255, 0.85), rgba(255, 255, 255, 0.85)),
+    url('/assets/img/villarrica_1.jpg');
+
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
 
   h1,
   h2,
