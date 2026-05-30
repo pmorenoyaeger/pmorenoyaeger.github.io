@@ -9,7 +9,7 @@ profile:
   image: photo1.jpg
   image_circular: false
   more_info: >
-    <p>University of Wisconsin–Madison</p>
+    <p>Postdoctoral Researcher at the University of Wisconsin–Madison</p>
 
 selected_papers: true
 social: true
