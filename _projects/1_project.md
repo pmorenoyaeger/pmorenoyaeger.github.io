@@ -15,18 +15,19 @@ The relationship between ice and volcanoes has been investigated for decades. La
         {% include figure.liquid loading="eager" path="assets/img/Lava-ice_2.png" title="Lava terminating at certain elevation" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Lava-ice_2.png" title="Lava in contact with till" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/Lava-ice_3.png" title="Lava in contact with till" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Lava-ice_3.png" title="Polygonal fractures" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/Lava-ice_4.png" title="Polygonal fractures" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
-    Left: This lava was dated by <sup>40</sup>Ar/<sup>39<sup>Ar at  18,600 ± 2,600 years, and terminates at a certain elevation. Its texture indicates that was flowed into something cold that solidified it. Based on its age, we suggest that is ice and not water
+    Left: This lava was dated by <sup>40</sup>Ar/<sup>39<sup>Ar at  18,600 ± 2,600 years, and terminates at a certain elevation. Its texture indicates that was flowed into something cold that solidified it. Based on its age, we suggest that is ice and not water.
 
     Middle: Lava dated at ~16,000 years overlying till. Ice was retreating at this latitude at 18,000 to 16,000 years ago. This lava erupted on top of till produced by ice retreating.
 
-    Right: This lava shows polygonal fractures that reflects contact with a cold enviroment. Its a clear expression of what we call "lava-ice" contact features. All images come from references below. {%cite moreno2024pleistocene %}.</div>
+    Right: This lava shows polygonal fractures that reflects contact with a cold enviroment. Its a clear expression of what we call "lava-ice" contact features. All images come from references below. {%cite moreno2024pleistocene %}.
+</div>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
