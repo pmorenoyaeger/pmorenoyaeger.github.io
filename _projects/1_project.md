@@ -12,29 +12,29 @@ The relationship between ice and volcanoes has been investigated for decades. La
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/DSC_1256.JPG" title="Brad and Pablo" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Lava-ice_2.png" title="Lava terminating at certain elevation" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/helo.jpeg" title="Helo" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Lava-ice_2.png" title="Lava in contact with till" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/IMG_20200329_144535.jpg" title="Lago" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Lava-ice_3.png" title="Polygonal fractures" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
-    Left: [Dr. Brad S. Singer](https://geoscience.wisc.edu/people/singer-bradley-s/) and I on the southern flank of Villarrica volcano in 2023. We are standing on a pāhoehoe lava flow that we successfully dated using cosmogenic <sup>3</sup>He, yielding an age of 600 ± 200 years, and which we named Lavas de Catricheo.
+    Left: This lava was dated by <sup>40</sup>Ar/<sup>39<sup>Ar at  18,600 ± 2,600 years, and terminates at a certain elevation. Its texture indicates that was flowed into something cold that solidified it. Based on its age, we suggest that is ice and not water
 
-    Middle: [Dr. Brad S. Singer](https://geoscience.wisc.edu/people/singer-bradley-s/) and a helicopter pilot with the majestic Osorno volcano in the background. My colleague Jack Stalla is currently working on constraining the eruptive history of this volcano.
+    Middle: Lava dated at ~16,000 years overlying till. Ice was retreating at this latitude at 18,000 to 16,000 years ago. This lava erupted on top of till produced by ice retreating.
 
-    Right: Lago Panguipulli and the town of Choshuenco in the background. This photograph was taken on the flanks of the Choshuenco cones, which we dated using the <sup>40</sup>Ar/<sup>39</sup>Ar method to between 11.5 and 8 ka {%cite moreno2024pleistocene %}.</div>
+    Right: This lava shows polygonal fractures that reflects contact with a cold enviroment. Its a clear expression of what we call "lava-ice" contact features. All images come from references below. {%cite moreno2024pleistocene %}.</div>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Lave-ice_1.jpg" title="Lavas interacting with ice" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Lava-ice_1.jpg" title="Lavas interacting with ice" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    This figure was published in the Bulletin of the Geological Society of America {% cite moreno2024pleistocene %}. It shows how we suggest that magma erupting during glaciation was interacting with the ice in the surface. An updated version is published by [Physics World](https://physicsworld.com/a/earth-air-fire-water-the-growing-links-between-climate-change-and-geophysical-hazards/)
+    This figure was published in the Bulletin of the Geological Society of America {% cite moreno2024pleistocene %}. It shows how we suggest that magma erupting during glaciation was interacting with the ice in the surface. An updated version is published by <a href="(https://physicsworld.com/a/earth-air-fire-water-the-growing-links-between-climate-change-and-geophysical-hazards/" target="_blank">Physics World</a>
 </div>
 
 <div class="row">
@@ -45,35 +45,3 @@ The relationship between ice and volcanoes has been investigated for decades. La
 <div class="caption">
     This figure was published in the Journal of Geophysical Research Solid Earth {% cite moreno2025expansion %}. It is a model of how Mocho-Choshuenco volcano in the southern Andes might have reacted to glaciation. 
 </div>
-
-
-<div class="row justify-content-sm-center">
-
-    <!-- Large image on left -->
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/EPMA.jpg" title="Electron Probe Microanalyzer" class="img-fluid rounded z-depth-1" %}
-    </div>
-
-    <!-- Right column -->
-    <div class="col-sm-4">
-
-        <!-- Figure 2 -->
-        <div class="mt-3 mt-md-0">
-            {% include figure.liquid path="assets/img/Subofitic.jpg" title="Subophitic texture" class="img-fluid rounded z-depth-1" %}
-        </div>
-
-        <!-- Video -->
-        <div class="mt-3">
-            <video autoplay loop muted playsinline class="img-fluid rounded z-depth-1">
-                <source src="/assets/img/Lasering.mp4" type="video/mp4">
-            </video>
-        </div>
-
-    </div>
-
-</div>
-
-<div class="caption">
-Left: Electron Probe Microanalyzer (EPMA) at the University of Wisconsin–Madison used to analyze volcanic minerals and glasses. Top right: Subophitic texture formed by clinopyroxene and plagioclase. Bottom right: NGX lasering plagioclase to then measure its <sup>40</sup>Ar and <sup>39</sup>Ar content and constrain its age.
-</div>
-
