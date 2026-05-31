@@ -7,10 +7,13 @@
 body {
   padding-bottom: 70px;
   color: var(--global-text-color);
-background-image: url("/assets/imge/Villarrica_1.JPG");
-background-size: cover;
-background-position: center top;
-background-attachment: fixed;
+  background:
+    linear-gradient(rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0.2)),
+    url("/assets/img/Villarrica_1.JPG");
+
+  background-size: cover;
+  background-position: center top;
+  background-attachment: fixed;
 
   h1,
   h2,
@@ -23,12 +26,10 @@ background-attachment: fixed;
 }
 
 body.fixed-top-nav {
-  // Add some padding for the nav-bar.
   padding-top: 57px;
 }
 
 body.sticky-bottom-footer {
-  // Remove padding below footer.
   padding-bottom: 0;
 }
 
@@ -36,27 +37,17 @@ body.sticky-bottom-footer {
   max-width: v.$max-content-width;
 }
 
-
 // Profile
 .profile {
   img {
     width: 100%;
   }
-
-
-// Content layout uses Bootstrap's grid system with responsive columns
-// Main content flows naturally through container-mt-5 and Bootstrap grid classes
-// See _layouts/default.liquid and _includes/projects.liquid for examples
+}
 
 /******************************************************************************
  * Publications
  ******************************************************************************/
 
-// Publications layout is defined in _includes/bib_search.liquid
-// Uses jekyll-scholar for BibTeX parsing and Bootstrap cards for display
-
 /*****************************************************************************
 * Projects
 *****************************************************************************/
-
-// TODO: redefine projects layout.
