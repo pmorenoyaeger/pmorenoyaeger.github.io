@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: Geochronology, Geochemistry, and Volcanology.y Currently Postdoctoral Researcher at the University of Wisconsin-Madison
+subtitle: <p>Geochronology, Geochemistry, and Volcanology. Currently Postdoctoral Researcher at the University of Wisconsin-Madison</p>
 
 profile:
   align: right
