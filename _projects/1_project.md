@@ -1,12 +1,12 @@
-    ---
-    layout: page
-    title: "Project 1: How volcanoes respond to glaciation?"
-    description: Ice Forcing in Arc Magma Plumbing Systems (IF-AMPS)
-    img: assets/img/DSC_0074.JPG
-    importance: 1
-    category: work
-    related_publications: true
-    ---
+---
+layout: page
+title: "Project 1: How volcanoes respond to glaciation?"
+description: Ice Forcing in Arc Magma Plumbing Systems (IF-AMPS)
+img: assets/img/DSC_0074.JPG
+importance: 1
+category: work
+related_publications: true
+---
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
