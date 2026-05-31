@@ -7,9 +7,7 @@
 body {
   padding-bottom: 70px;
   color: var(--global-text-color);
-background:
-  linear-gradient(rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0.2)),
-  url("/assets/img/Villarrica_1.JPG");
+background-image: url("/assets/img/Villarrica_1.JPG");
 background-size: cover;
 background-position: center top;
 background-attachment: fixed;
@@ -36,6 +34,9 @@ body.sticky-bottom-footer {
 
 .container {
   max-width: v.$max-content-width;
+  background: rgba(255, 255, 255, 0.85);
+  padding: 25px;
+  border-radius: 12px;
 }
 
 // Profile
