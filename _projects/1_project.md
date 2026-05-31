@@ -42,14 +42,35 @@ Say you wanted to write a bit about your project before you posted the rest of t
 You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
 
 <div class="row justify-content-sm-center">
+
+    <!-- Large image on left -->
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/EPMA.jpg" title="Electron probe microanalyzer" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/EPMA.jpg" title="Electron Probe Microanalyzer" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/Subofitic.jpg" title="Subofitic texture plagioclase/clinopyroxene" class="img-fluid rounded z-depth-1" %}
+
+    <!-- Right column -->
+    <div class="col-sm-4">
+
+        <!-- Figure 2 -->
+        <div class="mt-3 mt-md-0">
+            {% include figure.liquid path="assets/img/Subofitic.jpg" title="Subophitic texture" class="img-fluid rounded z-depth-1" %}
+        </div>
+
+        <!-- Video -->
+        <div class="mt-3">
+            <video autoplay loop muted playsinline class="img-fluid rounded z-depth-1">
+                <source src="/assets/img/Lasering.mp4" type="video/mp4">
+            </video>
+        </div>
+
     </div>
+
 </div>
+
 <div class="caption">
+Left: Electron Probe Microanalyzer (EPMA) at the University of Wisconsin–Madison used to analyze volcanic minerals and glasses. Top right: Subophitic texture formed by clinopyroxene and plagioclase. Bottom right: NGX lasering plagioclase to then measure its <sup>40</sup>Ar and <sup>39</sup>Ar content and constrain its age.
+</div>
+
     You can also have artistically styled 2/3 + 1/3 images, like these.
 </div>
 
