@@ -7,9 +7,11 @@
 body {
   padding-bottom: 70px;
   color: var(--global-text-color);
-background-image: url("/assets/img/Villarrica_1.JPG");
+background:
+  linear-gradient(rgba(255, 255, 255, 0.03), rgba(255, 255, 255, 0.08)),
+  url("/assets/img/Villarrica_1.JPG");
 background-size: cover;
-background-position: center;
+background-position: center top;
 background-attachment: fixed;
 
   h1,
