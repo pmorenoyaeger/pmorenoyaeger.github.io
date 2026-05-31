@@ -12,7 +12,19 @@ I am committed to communicating geoscience to broad audiences and increasing acc
 
 ## Public Talks and Media
 
-Add interviews, podcasts, news articles, invited talks, and public lectures here.
+Melting glaciers and ice caps could unleash wave of volcanic eruptions, study says. The Guardian https://www.theguardian.com/environment/2025/jul/08/climate-crisis-melting-glaciers-ice-caps-volcanic-eruptions-chile-antartica-volcanoes
+
+Melting ice caps could bring dormant volcanoes to life, research from the Chilean Andes shows. Inside Climate News https://insideclimatenews.org/news/07072025/global-warming-could-waken-dormant-volcanoes/
+
+Melting glaciers could trigger more explosive eruptions globally, finds research. EurekAlert! https://www.eurekalert.org/news-releases/1089948
+
+Estudio advierte que el retroceso de los hielos puede fomentar erupciones volcánicas en la Antártica https://www.latercera.com/nacional/noticia/estudio-advierte-que-el-retroceso-de-los-hielos-puede-fomentar-erupciones-volcanicas-en-la-antartica/
+
+La Vaporera: https://www.youtube.com/live/1Y0L1ZOMymk
+
+Wednesday Nite at the Lab: https://www.youtube.com/watch?v=5wpDFMSox00&t=3540s&ab_channel=WednesdayNite%40TheLab 
+
+El Zoominario: https://www.youtube.com/watch?v=bMQfIN6DXvw&ab_channel=SolisLemus-lab 
 
 ## Educational Activities
 
