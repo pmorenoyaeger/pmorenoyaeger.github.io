@@ -26,7 +26,16 @@ The relationship between ice and volcanoes has been investigated for decades. La
 
     Middle: [Dr. Brad S. Singer](https://geoscience.wisc.edu/people/singer-bradley-s/) and a helicopter pilot with the majestic Osorno volcano in the background. My colleague Jack Stalla is currently working on constraining the eruptive history of this volcano.
 
-    Right: Lago Panguipulli and the town of Choshuenco in the background. This photograph was taken on the flanks of the Choshuenco cones, which we dated using the <sup>40</sup>Ar/<sup>39</sup>Ar method to between 11.5 and 8 ka {%cite moreno2024pleistocene}.</div>
+    Right: Lago Panguipulli and the town of Choshuenco in the background. This photograph was taken on the flanks of the Choshuenco cones, which we dated using the <sup>40</sup>Ar/<sup>39</sup>Ar method to between 11.5 and 8 ka {%cite moreno2024pleistocene %}.</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/Figure 9.png" title="Model of how Mocho-Choshuenco might have responded to glaciation" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    This figure was published in the Bulletin of the Geological Society of America {% cite moreno2024pleistocene %}. It shows how we suggest that magma erupting during glaciation was interacting with the ice in the surface. An updated version is published by [Physics World](https://physicsworld.com/a/earth-air-fire-water-the-growing-links-between-climate-change-and-geophysical-hazards/)
+</div>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -36,6 +45,7 @@ The relationship between ice and volcanoes has been investigated for decades. La
 <div class="caption">
     This figure was published in the Journal of Geophysical Research Solid Earth {% cite moreno2025expansion %}. It is a model of how Mocho-Choshuenco volcano in the southern Andes might have reacted to glaciation. 
 </div>
+
 
 <div class="row justify-content-sm-center">
 
