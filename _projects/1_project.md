@@ -22,7 +22,7 @@ The relationship between ice and volcanoes has been investigated for decades. La
     </div>
 </div>
 <div class="caption">
-    Left: This lava was dated by <sup>40</sup>Ar/<sup>39<sup>Ar at  18,600 ± 2,600 years, and terminates at a certain elevation. Its texture indicates that was flowed into something cold that solidified it. Based on its age, we suggest that is ice and not water.
+    Left: This lava was dated by <sup>40</sup>Ar/<sup>39</sup>Ar at  18,600 ± 2,600 years, and terminates at a certain elevation. Its texture indicates that was flowed into something cold that solidified it. Based on its age, we suggest that is ice and not water.
 
     Middle: Lava dated at ~16,000 years overlying till. Ice was retreating at this latitude at 18,000 to 16,000 years ago. This lava erupted on top of till produced by ice retreating.
 
@@ -35,7 +35,7 @@ The relationship between ice and volcanoes has been investigated for decades. La
     </div>
 </div>
 <div class="caption">
-    This figure was published in the Bulletin of the Geological Society of America {% cite moreno2024pleistocene %}. It shows how we suggest that magma erupting during glaciation was interacting with the ice in the surface. An updated version is published by <a href="(https://physicsworld.com/a/earth-air-fire-water-the-growing-links-between-climate-change-and-geophysical-hazards/" target="_blank">Physics World</a>
+    This figure was published in the Bulletin of the Geological Society of America {% cite moreno2024pleistocene %}. It shows how we suggest that magma erupting during glaciation was interacting with the ice in the surface. An updated version is published by <a href="https://physicsworld.com/a/earth-air-fire-water-the-growing-links-between-climate-change-and-geophysical-hazards/" target="_blank">Physics World</a>
 </div>
 
 <div class="row">
