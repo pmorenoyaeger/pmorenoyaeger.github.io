@@ -22,12 +22,12 @@ The relationship between ice and volcanoes has been investigated for decades. La
     </div>
 </div>
 <div class="caption">
-    Left: Dr. Brad S. Singer and I on the southern flank of Villarrica volcano in 2023. We are standing on a pāhoehoe lava flow that we successfully dated using cosmogenic ^3He, yielding an age of 600 ± 200 years, and which we named Lavas de Catricheo.
+    Left: Dr. Brad S. Singer and I on the southern flank of Villarrica volcano in 2023. We are standing on a pāhoehoe lava flow that we successfully dated using cosmogenic <sup>3</sup>He, yielding an age of 600 ± 200 years, and which we named Lavas de Catricheo.
+
 
     Middle: Dr. Brad S. Singer and a helicopter pilot with the majestic Osorno volcano in the background. My colleague Jack Stalla is currently working on constraining the eruptive history of this volcano.
 
-    Right: Lago Panguipulli and the town of Choshuenco in the background. This photograph was taken on the flanks of the Choshuenco cones, which we dated using the ^40Ar/^39Ar method to between 11.5 and 8 ka, corresponding to the Dacitas del Estero Pirinel eruptive unit.
-</div>
+    Right: Lago Panguipulli and the town of Choshuenco in the background. This photograph was taken on the flanks of the Choshuenco cones, which we dated using the <sup>40</sup>Ar/<sup>39</sup>Ar method to between 11.5 and 8 ka.</div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
