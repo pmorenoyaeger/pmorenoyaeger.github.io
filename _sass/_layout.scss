@@ -9,7 +9,7 @@ body {
   color: var(--global-text-color);
   background:
     linear-gradient(rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0.5)),
-    url('{{ "/assets/img/Villarrica_1.JPG" | relative_url }}');
+    url("/assets/img/Villarrica_1.JPG");
 
   background-size: cover;
   background-position: center;
