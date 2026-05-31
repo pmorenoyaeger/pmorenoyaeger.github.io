@@ -1,5 +1,4 @@
 ---
-
 layout: page
 permalink: /outreach/
 title: Outreach
@@ -8,10 +7,9 @@ nav: true
 nav_order: 4
 ---
 
-I am committed to communicating geoscience to broad audiences and increasing access to Earth science education. My outreach activities focus on volcanology, geochronology, and the interaction between volcanoes and climate.
+I am committed to communicating geoscience to broad audiences and increasing access to Earth science education. My outreach activities focus on volcanology, geochronology, and the interaction between volcanism, glaciers, and climate.
 
-## Public Talks and Media
-
+## Media Coverage
 
 * **The Guardian (2025)** – *Melting glaciers and ice caps could unleash a wave of volcanic eruptions, study says* <a href="https://www.theguardian.com/environment/2025/jul/08/climate-crisis-melting-glaciers-ice-caps-volcanic-eruptions-chile-antartica-volcanoes" target="_blank">Read article</a>
 
@@ -21,10 +19,9 @@ I am committed to communicating geoscience to broad audiences and increasing acc
 
 * **La Tercera (2025)** – *Estudio advierte que el retroceso de los hielos puede fomentar erupciones volcánicas en la Antártica* <a href="https://www.latercera.com/nacional/noticia/estudio-advierte-que-el-retroceso-de-los-hielos-puede-fomentar-erupciones-volcanicas-en-la-antartica/" target="_blank">Leer artículo</a>
 
-### Interviews and Talks
+## Invited Talks
 
-* **La Tercera (2025)** – *Talk to the Latin America Association of Volcanology (ALVO)* <a href="https://www.youtube.com/watch?v=fBJNPu_g5Mo&t=3950s" target="_blank">See the talk on Youtube</a>
-
+* **Association of Latin American Volcanology (ALVO, 2025)** – Invited talk on volcano–ice interactions and glacial controls on volcanism. <a href="https://www.youtube.com/watch?v=fBJNPu_g5Mo&t=3950s" target="_blank">Watch talk on YouTube</a>
 
 ## Educational Activities
 
@@ -34,8 +31,8 @@ The Volcano Ice Summer Program (VISP) is an international field-based educationa
 
 #### Field Courses
 
-* **2025 – Bend, Oregon, USA**
 * **2025 – Pucón, Chile (Villarrica Volcano)**
+* **2025 – Bend, Oregon, USA**
 * **2024 – Bend, Oregon, USA**
 * **2023 – Temuco, Chile (Llaima Volcano)**
 * **2022 – Bend, Oregon, USA**
@@ -53,25 +50,10 @@ The program introduced students to scientific research, materials science, and h
 * **2024 – Instructor**
 * **2023 – Instructor**
 
-
 ## Science Communication
 
-* **La Vaporera** <a href="https://www.youtube.com/live/1Y0L1ZOMymk" target="_blank">Watch interview on Youtube</a>
+* **La Vaporera** <a href="https://www.youtube.com/live/1Y0L1ZOMymk" target="_blank">Watch interview on YouTube</a>
 
-* **Wednesday Nite @ The Lab** <a href="https://www.youtube.com/watch?v=5wpDFMSox00&t=3540s" target="_blank">Watch presentation on Youtube</a>
+* **Wednesday Nite @ The Lab** <a href="https://www.youtube.com/watch?v=5wpDFMSox00&t=3540s" target="_blank">Watch presentation on YouTube</a>
 
-* **El Zoominario** <a href="https://www.youtube.com/watch?v=bMQfIN6DXvw" target="_blank">Watch interview on Youtube</a>
-
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/outreach1.jpg" title="Outreach activity" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/outreach2.jpg" title="Field education" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-
-<div class="caption">
-Examples of outreach, education, and public engagement activities.
-</div>
+* **El Zoominario** <a href="https://www.youtube.com/watch?v=bMQfIN6DXvw" target="_blank">Watch interview on YouTube</a>
