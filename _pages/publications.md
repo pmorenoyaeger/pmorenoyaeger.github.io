@@ -2,7 +2,8 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: Publications by year. More details in my [Google Scholar](https://scholar.google.cl/citations?user=uoa0ozMAAAAJ&hl=en)
+description: Publications by year. More details in my
+<a href="https://scholar.google.cl/citations?user=uoa0ozMAAAAJ&hl=en" target="_blank">Google Scholar</a>.
 nav: true
 nav_order: 2
 ---
