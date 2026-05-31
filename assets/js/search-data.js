@@ -411,8 +411,8 @@ ninja.data = [{
             },},{id: "news-i-succesfully-defended-my-phd",
           title: 'I succesfully defended my PhD',
           description: "",
-          section: "News",},{id: "projects-project-1-how-volcanoes-respond-to-glaciation",
-          title: 'Project 1: How volcanoes respond to glaciation?',
+          section: "News",},{id: "projects-how-volcanoes-respond-to-glaciation",
+          title: 'How volcanoes respond to glaciation?',
           description: "Ice Forcing in Arc Magma Plumbing Systems (IF-AMPS)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
