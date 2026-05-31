@@ -2,14 +2,14 @@
 layout: about
 title: Home
 permalink: /
-subtitle: Geochronologist, Geochemist, and Volcanologist
+subtitle: Geochronology, Geochemistry, and Volcanology
 
 profile:
   align: right
   image: photo1.jpg
   image_circular: false
   more_info: >
-    <p>Postdoctoral Researcher at the University of Wisconsin–Madison</p>
+    <p>Currently Postdoctoral Researcher at the University of Wisconsin–Madison</p>
 
 selected_papers: false
 social: true
