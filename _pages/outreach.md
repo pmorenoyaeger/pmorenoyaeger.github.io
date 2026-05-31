@@ -6,7 +6,7 @@ title: Outreach
 description: Outreach, science communication, and public engagement activities.
 nav: true
 nav_order: 4
-------------
+---
 
 I am committed to communicating geoscience to broad audiences and increasing access to Earth science education. My outreach activities focus on volcanology, geochronology, and the interaction between volcanoes and climate.
 
