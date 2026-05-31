@@ -495,6 +495,13 @@ ninja.data = [{
           window.open("https://www.linkedin.com/in/pablo-moreno-yaeger", "_blank");
         },
       },{
+        id: 'social-custom_social',
+        title: 'Custom_social',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://bsky.app/profile/pmorenoyaeger.bsky.social", "_blank");
+        },
+      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
