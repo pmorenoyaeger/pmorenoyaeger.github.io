@@ -12,7 +12,6 @@ I am committed to communicating geoscience to broad audiences and increasing acc
 
 ## Public Talks and Media
 
-## Public Talks and Media
 
 * **The Guardian (2025)** – *Melting glaciers and ice caps could unleash a wave of volcanic eruptions, study says* <a href="https://www.theguardian.com/environment/2025/jul/08/climate-crisis-melting-glaciers-ice-caps-volcanic-eruptions-chile-antartica-volcanoes" target="_blank">Read article</a>
 
@@ -33,7 +32,33 @@ I am committed to communicating geoscience to broad audiences and increasing acc
 
 ## Educational Activities
 
-Add field trips, mentoring activities, workshops, and educational initiatives here.
+### Volcano Ice Summer Program (VISP) – Instructor
+
+The Volcano Ice Summer Program (VISP) is an international field-based educational program designed to familiarize students from traditional two-year institutions in the United States and Chile with volcanic and glacial deposits, volcanic processes, and the application of drone technology in geologic research.
+
+#### Field Courses
+
+* **2025 – Bend, Oregon, USA**
+* **2025 – Pucón, Chile (Villarrica Volcano)**
+* **2024 – Bend, Oregon, USA**
+* **2023 – Temuco, Chile (Llaima Volcano)**
+* **2022 – Bend, Oregon, USA**
+
+Learn more about the 2024 VISP program <a href="INSERT_LINK_HERE" target="_blank">here</a>.
+
+### Wisconsin Migrant Education Program – Instructor
+
+Organized by Shelly Grandell through the Materials Research Science and Engineering Center (MRSEC) at the University of Wisconsin–Madison, this program partnered with the Colorado Migrant Education Program to provide research-inspired STEM activities to underserved and underrepresented students participating in the summer Migrant Education STEAM Academy.
+
+The program introduced students to scientific research, materials science, and hands-on educational activities designed to increase engagement in STEM fields.
+
+#### Participation
+
+* **2024 – Instructor**
+* **2023 – Instructor**
+
+Learn more about the program <a href="INSERT_LINK_HERE" target="_blank">here</a>.
+
 
 ## Science Communication
 
