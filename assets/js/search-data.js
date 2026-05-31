@@ -501,4 +501,11 @@ ninja.data = [{
         handler: () => {
           window.open("https://bsky.app/profile/pmorenoyaeger.bsky.social", "_blank");
         },
+      },{
+        id: 'social-custom_social2',
+        title: 'Custom_social2',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.researchgate.net/profile/Pablo_Moreno-Yaeger", "_blank");
+        },
       },];
