@@ -26,7 +26,7 @@ The relationship between ice and volcanoes has been investigated for decades. La
 
     Middle: [Dr. Brad S. Singer](https://geoscience.wisc.edu/people/singer-bradley-s/) and a helicopter pilot with the majestic Osorno volcano in the background. My colleague Jack Stalla is currently working on constraining the eruptive history of this volcano.
 
-    Right: Lago Panguipulli and the town of Choshuenco in the background. This photograph was taken on the flanks of the Choshuenco cones, which we dated using the <sup>40</sup>Ar/<sup>39</sup>Ar method to between 11.5 and 8 ka.</div>
+    Right: Lago Panguipulli and the town of Choshuenco in the background. This photograph was taken on the flanks of the Choshuenco cones, which we dated using the <sup>40</sup>Ar/<sup>39</sup>Ar method to between 11.5 and 8 ka {%cite moreno2024pleistocene}.</div>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -34,12 +34,8 @@ The relationship between ice and volcanoes has been investigated for decades. La
     </div>
 </div>
 <div class="caption">
-    This figure was published in the Journal of Geophysical Research Solid Earth ({% cite moreno2025expansion %}). It is a model of how Mocho-Choshuenco volcano in the southern Andes might have reacted to glaciation. 
+    This figure was published in the Journal of Geophysical Research Solid Earth {% cite moreno2025expansion %}. It is a model of how Mocho-Choshuenco volcano in the southern Andes might have reacted to glaciation. 
 </div>
-
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
 
 <div class="row justify-content-sm-center">
 
