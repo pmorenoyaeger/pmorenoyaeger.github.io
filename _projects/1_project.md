@@ -14,17 +14,21 @@ The relationship between ice and volcanoes has been investigated for decades. La
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/DSC_1256.JPG" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/DSC_1256.JPG" title="Brad and Pablo" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/helo.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/helo.jpeg" title="Helo" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/IMG_20200329_144535.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/IMG_20200329_144535.jpg" title="Lago" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    Left: Dr. Brad S. Singer and I on the southern flank of Villarrica volcano in 2023. We are standing on a pāhoehoe lava flow that we successfully dated using cosmogenic ^3He, yielding an age of 600 ± 200 years, and which we named Lavas de Catricheo.
+
+    Middle: Dr. Brad S. Singer and a helicopter pilot with the majestic Osorno volcano in the background. My colleague Jack Stalla is currently working on constraining the eruptive history of this volcano.
+
+    Right: Lago Panguipulli and the town of Choshuenco in the background. This photograph was taken on the flanks of the Choshuenco cones, which we dated using the ^40Ar/^39Ar method to between 11.5 and 8 ka, corresponding to the Dacitas del Estero Pirinel eruptive unit.
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
