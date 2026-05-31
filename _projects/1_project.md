@@ -10,27 +10,17 @@ related_publications: true
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
-    ---
-    layout: page
-    title: "Project 1: How do volcanoes respond to glaciation?"
-    description: Ice Forcing in Arc Magma Plumbing Systems (IF-AMPS)
-    img: assets/img/DSC_0074.JPG
-    importance: 1
-    category: work
-    related_publications: true
-    ---
-
 The relationship between ice and volcanoes has been investigated for decades. Lava and tephra can melt ice that its released as vapour water into the atmosphere. Now, how does ice impact a volcano during a glacial cycle? Has ice the capacity to prevent eruptions to occur? If so, when ice retreats, do erupts resume? I started working on these questions with my former advisor, [Dr. Brad S. Singer](https://geoscience.wisc.edu/people/singer-bradley-s/), during my Master's and PhD in Geoscience.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/DSC_1256.JPG" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/helo.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/IMG_20200329_144535.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
