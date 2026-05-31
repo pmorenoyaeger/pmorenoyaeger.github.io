@@ -8,16 +8,21 @@ category: work
 related_publications: true
 ---
 
-The relationship between ice and volcanoes has been investigated for decades. Lava and tephra can melt ice that its released as vapour water into the atmosphere. Now, how does ice impact a volcano during a glacial cycle? Has ice the capacity to prevent eruptions to occur? If so, when ice retreats, do erupts resume? I started working on these questions with my former advisor, [Dr. Brad S. Singer](https://geoscience.wisc.edu/people/singer-bradley-s/), during my Master's and PhD in Geoscience.
+
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
     ---
     layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
+    title: "Project 1: How do volcanoes respond to glaciation?"
+    description: Ice Forcing in Arc Magma Plumbing Systems (IF-AMPS)
+    img: assets/img/DSC_0074.JPG
+    importance: 1
+    category: work
+    related_publications: true
     ---
+
+The relationship between ice and volcanoes has been investigated for decades. Lava and tephra can melt ice that its released as vapour water into the atmosphere. Now, how does ice impact a volcano during a glacial cycle? Has ice the capacity to prevent eruptions to occur? If so, when ice retreats, do erupts resume? I started working on these questions with my former advisor, [Dr. Brad S. Singer](https://geoscience.wisc.edu/people/singer-bradley-s/), during my Master's and PhD in Geoscience.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
