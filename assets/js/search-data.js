@@ -23,6 +23,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
+        },{id: "nav-outreach",
+          title: "Outreach",
+          description: "Outreach, science communication, and public engagement activities.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/outreach/";
+          },
         },{id: "nav-teaching",
           title: "teaching",
           description: "Course materials, schedules, and resources for classes taught.",
@@ -466,46 +473,4 @@ ninja.data = [{
           description: "This course provides an introduction to machine learning concepts, algorithms, and applications. Students will learn about supervised and unsupervised learning, model evaluation, and practical implementations.",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/introduction-to-machine-learning/";
-            },},{
-        id: 'social-email',
-        title: 'email',
-        section: 'Socials',
-        handler: () => {
-          window.open("mailto:%6D%6F%72%65%6E%6F%79%61%65%67%65%72@%77%69%73%63.%65%64%75", "_blank");
-        },
-      },{
-        id: 'social-scholar',
-        title: 'Google Scholar',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://scholar.google.com/citations?user=uoa0ozMAAAAJ&hl", "_blank");
-        },
-      },{
-        id: 'social-orcid',
-        title: 'ORCID',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://orcid.org/0000-0001-5219-4546", "_blank");
-        },
-      },{
-        id: 'social-linkedin',
-        title: 'LinkedIn',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.linkedin.com/in/pablo-moreno-yaeger", "_blank");
-        },
-      },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://bsky.app/profile/pmorenoyaeger.bsky.social", "_blank");
-        },
-      },{
-        id: 'social-custom_social2',
-        title: 'Custom_social2',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.researchgate.net/profile/Pablo_Moreno-Yaeger", "_blank");
-        },
-      },];
+            },},];
