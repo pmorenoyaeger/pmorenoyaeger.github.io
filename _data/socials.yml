@@ -12,3 +12,8 @@ custom_social:
   logo: /assets/img/Bluesky_logo_(black).png
   title: Bluesky
   url: https://bsky.app/profile/pmorenoyaeger.bsky.social
+
+custom_social2:
+  logo: /assets/img/researchgate_black.png
+  title: ResearchGate
+  url: https://www.researchgate.net/profile/Pablo_Moreno-Yaeger
