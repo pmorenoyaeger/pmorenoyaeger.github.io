@@ -34,7 +34,7 @@ The relationship between ice and volcanoes has been investigated for decades. La
     </div>
 </div>
 <div class="caption">
-    This figure was published in the Journal of Geophysical Research Solid Earth (Moreno-Yaeger et al., 2025). It is a model of how Mocho-Choshuenco volcano in the southern Andes might have reacted to glaciation. 
+    This figure was published in the Journal of Geophysical Research Solid Earth ({% cite moreno2025expansion %}). It is a model of how Mocho-Choshuenco volcano in the southern Andes might have reacted to glaciation. 
 </div>
 
 You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
@@ -71,4 +71,3 @@ You describe how you toiled, sweated, _bled_ for your project, and then... you r
 Left: Electron Probe Microanalyzer (EPMA) at the University of Wisconsin–Madison used to analyze volcanic minerals and glasses. Top right: Subophitic texture formed by clinopyroxene and plagioclase. Bottom right: NGX lasering plagioclase to then measure its <sup>40</sup>Ar and <sup>39</sup>Ar content and constrain its age.
 </div>
 
-</div>
