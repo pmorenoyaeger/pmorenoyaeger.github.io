@@ -411,9 +411,9 @@ ninja.data = [{
             },},{id: "news-i-succesfully-defended-my-phd",
           title: 'I succesfully defended my PhD',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-",
+          title: '',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
