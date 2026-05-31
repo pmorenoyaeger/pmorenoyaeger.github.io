@@ -17,11 +17,11 @@ I am committed to communicating geoscience to broad audiences and increasing acc
 
 * **EurekAlert! (2025)** – *Melting glaciers could trigger more explosive eruptions globally, finds research* <a href="https://www.eurekalert.org/news-releases/1089948" target="_blank">Read article</a>
 
-* **La Tercera (2025)** – *Estudio advierte que el retroceso de los hielos puede fomentar erupciones volcánicas en la Antártica* <a href="https://www.latercera.com/nacional/noticia/estudio-advierte-que-el-retroceso-de-los-hielos-puede-fomentar-erupciones-volcanicas-en-la-antartica/" target="_blank">Leer artículo</a>
+* **La Tercera (2025)** – *Estudio advierte que el retroceso de los hielos puede fomentar erupciones volcánicas en la Antártica* <a href="https://www.latercera.com/nacional/noticia/estudio-advierte-que-el-retroceso-de-los-hielos-puede-fomentar-erupciones-volcanicas-en-la-antartica/" target="_blank">in Spanish, Leer artículo</a>
 
 ## Invited Talks
 
-* **Association of Latin American Volcanology (ALVO, 2025)** – Invited talk on volcano–ice interactions and glacial controls on volcanism. <a href="https://www.youtube.com/watch?v=fBJNPu_g5Mo&t=3950s" target="_blank">Watch talk on YouTube</a>
+* **Association of Latin American Volcanology (ALVO, 2025)** – Invited talk on volcano–ice interactions and glacial controls on volcanism. <a href="https://www.youtube.com/watch?v=fBJNPu_g5Mo&t=3950s" target="_blank">in Spanish, Ver charla</a>
 
 ## Educational Activities
 
@@ -52,8 +52,8 @@ The program introduced students to scientific research, materials science, and h
 
 ## Science Communication
 
-* **La Vaporera** <a href="https://www.youtube.com/live/1Y0L1ZOMymk" target="_blank">Watch interview on YouTube</a>
+* **La Vaporera** <a href="https://www.youtube.com/live/1Y0L1ZOMymk" target="_blank">in Spanish, ver Charla</a>
 
-* **Wednesday Nite @ The Lab** <a href="https://www.youtube.com/watch?v=5wpDFMSox00&t=3540s" target="_blank">Watch presentation on YouTube</a>
+* **Wednesday Nite @ The Lab** <a href="https://www.youtube.com/watch?v=5wpDFMSox00&t=3540s" target="_blank">in Spanish, ver Charla</a>
 
-* **El Zoominario** <a href="https://www.youtube.com/watch?v=bMQfIN6DXvw" target="_blank">Watch interview on YouTube</a>
+* **El Zoominario** <a href="https://www.youtube.com/watch?v=bMQfIN6DXvw" target="_blank">in Spanish, ver Charla</a>
