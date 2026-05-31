@@ -8,7 +8,7 @@ category: work
 related_publications: true
 ---
 
-The relationship between ice and volcanoes has been investigated for decades. Lava and tephra can melt ice that its released as vapour water into the atmosphere. Now, how does ice impact a volcano during a glacial cycle? Has ice the capacity to prevent eruptions to occur? If so, when ice retreats, do erupts resume? I started working on these questions with my former advisor, [Dr. Brad S. Singer](https://geoscience.wisc.edu/people/singer-bradley-s/), during my Master's and PhD in Geoscience. 
+The relationship between ice and volcanoes has been investigated for decades. Lava and tephra can melt ice that its released as vapour water into the atmosphere. Now, how does ice impact a volcano during a glacial cycle? Has ice the capacity to prevent eruptions to occur? If so, when ice retreats, do erupts resume? I started working on these questions with my former advisor, [Dr. Brad S. Singer](https://geoscience.wisc.edu/people/singer-bradley-s/), during my Master's and PhD in Geoscience. To investigate the research questions, I integrated the <sup>40</sup>Ar/<sup>39</sup>Ar and <sup>14</sup>C dating techniques with 3He and <sup>36</sup>Cl surface exposure ages as we are interested in exploring how volcanoes reacted before, during and after glaciation. I then performed dozens of thousands of whole-rock, glass and mineral composition measurements to constrain how the magma plumbing system was evolving through time. Our findings show that volcanoes do erupt during glaciation but less, and some of them change their composition due to the stress load produced by the ice, whereas others do not. This research led to several press interviews. Please take a look at the references below if you are interested in this. 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -22,12 +22,12 @@ The relationship between ice and volcanoes has been investigated for decades. La
     </div>
 </div>
 <div class="caption">
-    Left: Dr. Brad S. Singer and I on the southern flank of Villarrica volcano in 2023. We are standing on a pāhoehoe lava flow that we successfully dated using cosmogenic <sup>3</sup>He, yielding an age of 600 ± 200 years, and which we named Lavas de Catricheo.
+    Left: [Dr. Brad S. Singer](https://geoscience.wisc.edu/people/singer-bradley-s/) and I on the southern flank of Villarrica volcano in 2023. We are standing on a pāhoehoe lava flow that we successfully dated using cosmogenic <sup>3</sup>He, yielding an age of 600 ± 200 years, and which we named Lavas de Catricheo.
 
-
-    Middle: Dr. Brad S. Singer and a helicopter pilot with the majestic Osorno volcano in the background. My colleague Jack Stalla is currently working on constraining the eruptive history of this volcano.
+    Middle: [Dr. Brad S. Singer](https://geoscience.wisc.edu/people/singer-bradley-s/) and a helicopter pilot with the majestic Osorno volcano in the background. My colleague Jack Stalla is currently working on constraining the eruptive history of this volcano.
 
     Right: Lago Panguipulli and the town of Choshuenco in the background. This photograph was taken on the flanks of the Choshuenco cones, which we dated using the <sup>40</sup>Ar/<sup>39</sup>Ar method to between 11.5 and 8 ka.</div>
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
