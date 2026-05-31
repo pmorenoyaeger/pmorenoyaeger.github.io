@@ -21,13 +21,9 @@ I am committed to communicating geoscience to broad audiences and increasing acc
 
 * **La Tercera (2025)** – *Estudio advierte que el retroceso de los hielos puede fomentar erupciones volcánicas en la Antártica* <a href="https://www.latercera.com/nacional/noticia/estudio-advierte-que-el-retroceso-de-los-hielos-puede-fomentar-erupciones-volcanicas-en-la-antartica/" target="_blank">Leer artículo</a>
 
-### Interviews and Podcasts
+### Interviews and Talks
 
-* **La Vaporera** <a href="https://www.youtube.com/live/1Y0L1ZOMymk" target="_blank">Watch interview</a>
-
-* **Wednesday Nite @ The Lab** <a href="https://www.youtube.com/watch?v=5wpDFMSox00&t=3540s" target="_blank">Watch presentation</a>
-
-* **El Zoominario** <a href="https://www.youtube.com/watch?v=bMQfIN6DXvw" target="_blank">Watch interview</a>
+* **La Tercera (2025)** – *Talk to the Latin America Association of Volcanology (ALVO)* <a href="https://www.youtube.com/watch?v=fBJNPu_g5Mo&t=3950s" target="_blank">See the talk on Youtube</a>
 
 
 ## Educational Activities
@@ -44,7 +40,7 @@ The Volcano Ice Summer Program (VISP) is an international field-based educationa
 * **2023 – Temuco, Chile (Llaima Volcano)**
 * **2022 – Bend, Oregon, USA**
 
-Learn more about the 2024 VISP program <a href="INSERT_LINK_HERE" target="_blank">here</a>.
+Learn more about the 2024 VISP program <a href="https://sites.google.com/wisc.edu/visp2024oregoncascades/home" target="_blank">here</a>.
 
 ### Wisconsin Migrant Education Program – Instructor
 
@@ -57,12 +53,15 @@ The program introduced students to scientific research, materials science, and h
 * **2024 – Instructor**
 * **2023 – Instructor**
 
-Learn more about the program <a href="INSERT_LINK_HERE" target="_blank">here</a>.
-
 
 ## Science Communication
 
-Add articles, videos, social media posts, and other public-facing science communication activities here.
+* **La Vaporera** <a href="https://www.youtube.com/live/1Y0L1ZOMymk" target="_blank">Watch interview on Youtube</a>
+
+* **Wednesday Nite @ The Lab** <a href="https://www.youtube.com/watch?v=5wpDFMSox00&t=3540s" target="_blank">Watch presentation on Youtube</a>
+
+* **El Zoominario** <a href="https://www.youtube.com/watch?v=bMQfIN6DXvw" target="_blank">Watch interview on Youtube</a>
+
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
