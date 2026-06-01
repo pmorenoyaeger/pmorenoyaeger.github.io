@@ -29,18 +29,18 @@ Despite the hazard that volcanoes pose to the society, little is known about the
     Right: Lago Panguipulli and the town of Choshuenco in the background. This photograph was taken on the flanks of the Choshuenco cones, which we dated using the <sup>40</sup>Ar/<sup>39</sup>Ar method to between 11.5 and 8 ka {%cite moreno2024pleistocene}.</div>
 
 <div class="row">
-    <div class="col-sm-9 mt-3 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/Ar_plateaus.jpg" title="Ar results" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    This figure was published in the Bulletin of the Geological Society of America Bulletin {% cite moreno2024pleistocene %}. It shows <sup>40</sup>Ar/<sup>39</sup>Ar results from Mocho-Choshuenco volcano. These results pose the volcano as twice younger as previoustly thought with a caldera-forming eruption occuring at 13,500 years ago (previusly dated at ~60,000 years ago).
+    This figure was published in the Bulletin of the Geological Society of America Bulletin {% cite moreno2024pleistocene %}. It shows <sup>40</sup>Ar/<sup>39</sup>Ar results from Mocho-Choshuenco volcano. These results pose the volcano as twice younger as previoustly thought with a caldera-forming eruption occuring at 13,500 years ago (previusly dated at ~60,000 years ago)
 </div>
 
 <div class="row justify-content-sm-center">
 
     <!-- Large image on left -->
-    <div class="col-sm-12 mt-3 mt-md-0">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/EPMA.jpg" title="Electron Probe Microanalyzer" class="img-fluid rounded z-depth-1" %}
     </div>
 
