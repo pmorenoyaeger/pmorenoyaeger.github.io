@@ -1,24 +1,14 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
+title: "Eruption of active silicic systems"
+description: 
+img: assets/img/ldm.jpg
 importance: 3
-category: fun
+category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Silicic systems are known to generate the most explosive eruptions in the world due to their high volatile content. Understanding how these eruptions occur is then key. By coupling magma compositions with thermodynamic modelling, I explore what triggers a silicic eruption. Currently, I am working with Dr. Basil Tikoff and Dr. Claire Ruggles as a Postdoctoral Researcher. My main work is to systematically explore the composition and physical parameters of the magmas that are injected into the Laguna del Maule Volcanic Field in the Andes. This system is currently experiencing the higher uplifting rates of any volcanic system in the world. I am performing thermodynamic modelling using the MELTS algorithm that combinates a suite of intensive magma properties to compare it with available geophysical data. 
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
