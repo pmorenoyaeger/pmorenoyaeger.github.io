@@ -26,11 +26,11 @@ The relationship between ice and volcanoes has been investigated for decades. La
 
     Middle: Lava dated at ~16,000 years overlying till. Ice was retreating at this latitude at 18,000 to 16,000 years ago. This lava erupted on top of till produced by ice retreating.
 
-    Right: This lava shows polygonal fractures that reflects contact with a cold enviroment. Its a clear expression of what we call "lava-ice" contact features. All images come from references below. {%cite moreno2024pleistocene %}.
+    Right: This lava shows polygonal fractures that reflects contact with a cold enviroment. Its a clear expression of what we call "lava-ice" contact features. All images come from references below {%cite moreno2024pleistocene %}.
 </div>
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-3 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/Lava-ice_1.jpg" title="Lavas interacting with ice" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
