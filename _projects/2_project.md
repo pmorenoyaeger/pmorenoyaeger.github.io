@@ -29,7 +29,7 @@ Despite the hazard that volcanoes pose to the society, little is known about the
     Right: Lago Panguipulli and the town of Choshuenco in the background. This photograph was taken on the flanks of the Choshuenco cones, which we dated using the <sup>40</sup>Ar/<sup>39</sup>Ar method to between 11.5 and 8 ka {%cite moreno2024pleistocene %}.</div>
 
 <div class="row justify-content-center">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-10 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/Ar_plateaus.jpg" title="Ar results" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -64,6 +64,6 @@ Despite the hazard that volcanoes pose to the society, little is known about the
 </div>
 
 <div class="caption">
-Left: Electron Probe Microanalyzer (EPMA) at the University of Wisconsin–Madison used to analyze volcanic minerals and glasses. Top right: Subophitic texture formed by clinopyroxene and plagioclase. Bottom right: NGX lasering plagioclase to then measure its <sup>40</sup>Ar and <sup>39</sup>Ar content and constrain its age.
+The images above show methods used for the project. Left: Electron Probe Microanalyzer (EPMA) at the University of Wisconsin–Madison used to analyze volcanic minerals and glasses. Top right: Subophitic texture formed by clinopyroxene and plagioclase. Bottom right: NGX lasering plagioclase to then measure its <sup>40</sup>Ar and <sup>39</sup>Ar content and constrain its age.
 </div>
 
