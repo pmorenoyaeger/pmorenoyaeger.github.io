@@ -54,7 +54,7 @@ Despite the hazard that volcanoes pose to the society, little is known about the
 
         <!-- Video -->
         <div class="mt-3">
-            <video autoplay loop muted playsinline class="img-fluid rounded z-depth-1">
+            <video autoplay loop muted playsinline class="img-fluid rounded z-depth-1" playbackRate="2">
                 <source src="/assets/img/Lasering.mp4" type="video/mp4">
             </video>
         </div>
