@@ -29,7 +29,7 @@ The relationship between ice and volcanoes has been investigated for decades. La
     Right: This lava shows polygonal fractures that reflects contact with a cold enviroment. Its a clear expression of what we call "lava-ice" contact features. All images come from references below {%cite moreno2024pleistocene %}.
 </div>
 
-<div class="row">
+<div class="row justify-content-center>
     <div class="col-sm-9 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/Lava-ice_1.jpg" title="Lavas interacting with ice" class="img-fluid rounded z-depth-1" %}
     </div>
@@ -38,7 +38,7 @@ The relationship between ice and volcanoes has been investigated for decades. La
     This figure was published in the Bulletin of the Geological Society of America {% cite moreno2024pleistocene %}. It shows how we suggest that magma erupting during glaciation was interacting with the ice in the surface. An updated version is published by <a href="https://physicsworld.com/a/earth-air-fire-water-the-growing-links-between-climate-change-and-geophysical-hazards/" target="_blank">Physics World</a>
 </div>
 
-<div class="row">
+<div class="row justify-content-center">
     <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/Figure 9.png" title="Model of how Mocho-Choshuenco might have responded to glaciation" class="img-fluid rounded z-depth-1" %}
     </div>
