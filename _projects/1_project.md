@@ -30,7 +30,7 @@ The relationship between ice and volcanoes has been investigated for decades. La
 </div>
 
 <div class="row">
-    <div class="col-sm-3 mt-3 mt-md-0">
+    <div class="col-sm-9 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/Lava-ice_1.jpg" title="Lavas interacting with ice" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
