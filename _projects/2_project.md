@@ -26,9 +26,9 @@ Despite the hazard that volcanoes pose to the society, little is known about the
 
     Middle: <a href="https://geoscience.wisc.edu/people/singer-bradley-s/" target="_blank">Dr. Brad S. Singer</a> and a helicopter pilot with the majestic Osorno volcano in the background. My colleague Jack Stalla is currently working on constraining the eruptive history of this volcano.
 
-    Right: Lago Panguipulli and the town of Choshuenco in the background. This photograph was taken on the flanks of the Choshuenco cones, which we dated using the <sup>40</sup>Ar/<sup>39</sup>Ar method to between 11.5 and 8 ka {%cite moreno2024pleistocene}.</div>
+    Right: Lago Panguipulli and the town of Choshuenco in the background. This photograph was taken on the flanks of the Choshuenco cones, which we dated using the <sup>40</sup>Ar/<sup>39</sup>Ar method to between 11.5 and 8 ka {%cite moreno2024pleistocene %}.</div>
 
-<div class="row">
+<div class="row justify-content-center">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/Ar_plateaus.jpg" title="Ar results" class="img-fluid rounded z-depth-1" %}
     </div>
