@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: <span style="color:#c5050c;"><strong>Postdoctoral Researcher at the University of Wisconsin–Madison</strong></span><br>Geochronology, Geochemistry, and Volcanology
+subtitle: <span style='color:#c5050c;'><strong>Postdoctoral Researcher at the University of Wisconsin–Madison</strong></span><br>Geochronology, Geochemistry, and Volcanology
 
 profile:
   align: right
