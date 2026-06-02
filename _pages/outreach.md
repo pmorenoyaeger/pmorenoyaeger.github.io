@@ -7,7 +7,7 @@ nav: true
 nav_order: 4
 ---
 
-I am committed to communicating geoscience to broad audiences and increasing access to Earth science education. My outreach activities focus on volcanology, geochronology, and the interaction between volcanism, glaciers, and climate.
+I am committed to communicating geoscience to broad audiences and increasing access to Earth science education. I have participated in several outreach activities focussing on communicating volcanology, geochronology, and the interaction between volcanism, glaciers, and climate.
 
 ## Media Coverage
 
@@ -54,6 +54,6 @@ The program introduced students to scientific research, materials science, and h
 
 * **La Vaporera** <a href="https://www.youtube.com/live/1Y0L1ZOMymk" target="_blank">in Spanish, ver Charla</a>
 
-* **Wednesday Nite @ The Lab** <a href="https://www.youtube.com/watch?v=5wpDFMSox00&t=3540s" target="_blank">in Spanish, ver Charla</a>
+* **Wednesday Nite @ The Lab** <a href="https://www.youtube.com/watch?v=5wpDFMSox00&t=3540s" target="_blank">watch Talk</a>
 
-* **El Zoominario** <a href="https://www.youtube.com/watch?v=bMQfIN6DXvw" target="_blank">in Spanish, ver Charla</a>
+* **El Zoominario** <a href="https://www.youtube.com/watch?v=bMQfIN6DXvw" target="_blank">watch Talk</a>
