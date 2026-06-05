@@ -8,7 +8,7 @@ category: work
 related_publications: true
 ---
 
-The relationship between ice and volcanoes has been investigated for decades. Lava and tephra can melt ice that its released as vapour water into the atmosphere. Now, how does ice impact a volcano during a glacial cycle? Has ice the capacity to prevent eruptions to occur? If so, when ice retreats, do erupts resume? I started working on these questions with my former advisor, [Dr. Brad S. Singer](https://geoscience.wisc.edu/people/singer-bradley-s/), during my Master's and PhD in Geoscience. To investigate the research questions, I integrated the <sup>40</sup>Ar/<sup>39</sup>Ar and <sup>14</sup>C dating techniques with 3He and <sup>36</sup>Cl surface exposure ages as we are interested in exploring how volcanoes reacted before, during and after glaciation. I then performed dozens of thousands of whole-rock, glass and mineral composition measurements to constrain how the magma plumbing system was evolving through time. Our findings show that volcanoes do erupt during glaciation but less, and some of them change their composition due to the stress load produced by the ice, whereas others do not. This research led to several press interviews. Please take a look at the references below if you are interested in this. 
+The relationship between ice and volcanoes has been investigated for decades. In one direction, lava and tephra can melt ice, which is then released as water vapor into the atmosphere. In the opposite direction, questions remain about how ice impacts a volcano’s plumbing and eruptive style during a glacial cycle. For example, does ice have the capacity to prevent eruptions from occuring? If so, when ice retreats, do erupts resume or change in character (composition, explosivity)? I started working on these questions with my former advisor, Dr. Brad S. Singer, during my Master’s and PhD at the University of Wisconsin-Madison. To investigate research questions regarding the influence of ice loading and unloading on volcanic plumbing, I integrated the <sup>40</sup>Ar/<sup>39</sup>Ar and <sup>14</sup>C dating techniques with <sup>3</sup>He and <sup>36</sup>Cl surface exposure ages to explore how volcanoes reacted before, during and after glaciation during the Last Glacial Maximum. I then performed thousands of whole-rock, glass and mineral composition measurements to constrain how the magma plumbing system evolved through time. Our findings show that volcanoes do erupt during glacial periods, but less, and some of them change their composition due to the stress load produced by the ice, whereas others do not. This research led to <a href="https://pmorenoyaeger.github.io/outreach/" target="_blank">press interviews</a>. Please take a look at the references below if you are interested in this.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -22,11 +22,9 @@ The relationship between ice and volcanoes has been investigated for decades. La
     </div>
 </div>
 <div class="caption">
-    Left: This lava was dated by <sup>40</sup>Ar/<sup>39</sup>Ar at  18,600 ± 2,600 years, and terminates at a certain elevation. Its texture indicates that was flowed into something cold that solidified it. Based on its age, we suggest that is ice and not water.
-
-    Middle: Lava dated at ~16,000 years overlying till. Ice was retreating at this latitude at 18,000 to 16,000 years ago. This lava erupted on top of till produced by ice retreating.
-
-    Right: This lava shows polygonal fractures that reflects contact with a cold enviroment. Its a clear expression of what we call "lava-ice" contact features. All images come from references below {%cite moreno2024pleistocene singer2024new %}.
+    Left: This lava was dated by 40Ar/39Ar at 18,600 ± 2,600 years, and terminates at a elevation consistent with ice presence. Its texture indicates that the lava flowed into something cold that solidified it. Based on the age of the lava and the elevation, we suggest that this cooling agent was ice and not water. 
+    Middle: Lava dated at ~16,000 years overlying till. Ice was retreating at this latitude at 18,000 to 16,000 years ago. This lava erupted on top of till produced by ice retreating. 
+    Right: This lava shows polygonal fractures that reflects contact with a cold environment. This is a clear expression of what we call "lava-ice" contact features. All images come from references below {%cite moreno2024pleistocene singer2024new %}.
 </div>
 
 <div class="row justify-content-center">
