@@ -5,7 +5,7 @@ description:
 img: 
 redirect: 
 importance: 4
-category: work
+category: outreach
 ---
 
 Every project has a beautiful feature showcase page.
