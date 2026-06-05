@@ -8,7 +8,7 @@ category: work
 related_publications: true
 ---
 
-Despite the hazard that volcanoes pose to the society, little is known about their past eruptions. This is key as past eruptions can tell us many information about how a future eruption would occur. A volcano is considered active if it has an eruption during the Holocene (the last 11,700 years). Otherwise, its considered "inactive". By integrating many geochronometers, I have noted that many volcanoes thought to be inactive are actually very active and generated explosive eruptions. This findings have led to decision maker instituions to increase the risk level of certain volcanoes.
+Despite the hazard that volcanoes pose to society, in many cases little is known about the timing and magnitude of past eruptions. This is key, as knowing a full history of past eruptions can tell us valuable information about how a future eruption might occur. A volcano is considered active if it has had an eruption during the Holocene (the last 11,700 years). Otherwise, its considered “inactive”. By integrating multiple geochronometers, I have noted that many volcanoes in the Andean arc which were thought to be inactive are actually very active and generated explosive eruptions in the recent past (%cite moreno2024pleistocene %). This finding has led decision maker institutions to increase the risk level of certain Chilean volcanoes.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
