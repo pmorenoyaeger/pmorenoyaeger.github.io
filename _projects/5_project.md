@@ -7,7 +7,7 @@ importance: 4
 category: work
 ---
 
-Silicic systems are known to generate the most explosive eruptions in the world due to their high volatile content. Many silicic eruptions occur in continental arcs, which are heavily populated (e.g., the Andean Arc, the Cascades). Understanding how these eruptions occur is then key for understanding and mitigating volcanic hazards. By coupling magma compositions with thermodynamic modelling, I explore what mechanisms can trigger a silicic eruption. I am currently working on these questions with Dr. Basil Tikoff and Dr. Claire Ruggles as a Postdoctoral Researcher. My objective is to systematically explore the composition and physical parameters of the magmas that are injected into the Laguna del Maule Volcanic Field in the Andes. This system is currently experiencing the highest uplifting rates of any volcanic system in the world. I am performing thermodynamic modelling using the MELTS algorithm that combines a suite of intensive magma properties to compare magma chamber compositional changes with available geophysical data.
+Coming soon!
 
 
 <div class="row">
