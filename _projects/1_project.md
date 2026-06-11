@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "How do volcanoes respond to glaciation?"
-description: NSF IF-AMPS
+description: 
 img: assets/img/DSC_0074.JPG
 importance: 1
 category: work
