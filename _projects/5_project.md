@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "Integrating geophysics with thermodynamic modelling"
+title: "Investigating timescales of magma processes before an eruption"
 description: 
 img: assets/img/ldm.jpg
-importance: 3
+importance: 4
 category: work
 ---
 
