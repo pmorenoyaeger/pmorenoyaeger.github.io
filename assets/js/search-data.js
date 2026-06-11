@@ -420,7 +420,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-how-do-volcanoes-respond-to-glaciation",
           title: 'How do volcanoes respond to glaciation?',
-          description: "NSF Project Ice Forcing in Arc Magma Plumbing Systems (IF-AMPS)",
+          description: "NSF IF-AMPS",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-eruptive-history-of-volcanoes",
