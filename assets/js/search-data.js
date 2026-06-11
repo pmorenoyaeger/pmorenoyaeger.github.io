@@ -433,11 +433,16 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-eruption-of-active-silicic-systems",
-          title: 'Eruption of active silicic systems',
+            },},{id: "projects-integrating-geophysics-with-thermodynamic-modelling",
+          title: 'Integrating geophysics with thermodynamic modelling',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
+            },},{id: "projects-investigating-timescales-of-magma-processes-before-an-eruption",
+          title: 'Investigating timescales of magma processes before an eruption',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/5_project/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
