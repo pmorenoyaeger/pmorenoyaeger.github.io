@@ -420,7 +420,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-how-do-volcanoes-respond-to-glaciation",
           title: 'How do volcanoes respond to glaciation?',
-          description: "NSF IF-AMPS",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-eruptive-history-of-volcanoes",
