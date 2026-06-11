@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "How do volcanoes respond to glaciation?"
-description: 
+description: NSF Project Ice Forcing in Arc Magma Plumbing Systems (IF-AMPS)
 img: assets/img/DSC_0074.JPG
 importance: 1
 category: work
