@@ -18,6 +18,7 @@ Silicic systems are known to generate the most explosive eruptions in the world 
     The Laguna del Maule volcanic field is the fastest-inflating volcanic system in the world.
 </div>
 
+
 This work integrates field observations, geophysical measurements and thermodynamic modelling.
 
 <div class="row justify-content-sm-center">
