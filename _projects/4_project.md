@@ -11,16 +11,14 @@ Silicic systems are known to generate the most explosive eruptions in the world 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/lgm.jpg" title="Laguna del Maule" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/ldm.jpg" title="Laguna del Maule" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
     The Laguna del Maule volcanic field is the fastest-inflating volcanic system in the world.
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+This work integrates field observations, geophysical measurements and thermodynamic modelling.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
