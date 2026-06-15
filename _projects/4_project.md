@@ -11,7 +11,7 @@ Silicic systems are known to generate the most explosive eruptions in the world 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        { <img src="{{ 'assets/img/ldm.jpg' | relative_url }}" class="img-fluid rounded z-depth-1"> }
+        {% include figure.liquid loading="eager" path="assets/img/ldm.jpg" title="Laguna del Maule" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -33,5 +33,3 @@ This work integrates field observations, geophysical measurements and thermodyna
 </div>
 
 The area around Laguna del Maule is comprised by several Pleistocene eroded volcanoes such as the Campanario volcano (left image). Some of the eruptive products in the area show specific textures that could be related with lava-ice contact features (right image).
-
-{% endraw %}
