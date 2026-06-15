@@ -11,7 +11,7 @@ Silicic systems are known to generate the most explosive eruptions in the world 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/ldm.jpg" title="Laguna del Maule" class="img-fluid rounded z-depth-1" %}
+        { <img src="{{ 'assets/img/ldm.jpg' | relative_url }}" class="img-fluid rounded z-depth-1"> }
     </div>
 </div>
 <div class="caption">
