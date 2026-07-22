@@ -11,6 +11,9 @@ I am committed to communicating geoscience to broad audiences and increasing acc
 
 ## Media Coverage
 
+* **ARD Germany Public Radio** – *Volcanoes and climate change – An explosive relationship
+* <a href="https://www.ardsounds.de/episode/urn:ard:episode:860667fc74117b5b/" target="_blank">Listen to interview (in German)</a>
+
 * **The Guardian (2025)** – *Melting glaciers and ice caps could unleash a wave of volcanic eruptions, study says* <a href="https://www.theguardian.com/environment/2025/jul/08/climate-crisis-melting-glaciers-ice-caps-volcanic-eruptions-chile-antartica-volcanoes" target="_blank">Read article</a>
 
 * **Inside Climate News (2025)** – *Melting ice caps could bring dormant volcanoes to life, research from the Chilean Andes shows* <a href="https://insideclimatenews.org/news/07072025/global-warming-could-waken-dormant-volcanoes/" target="_blank">Read article</a>
