@@ -425,7 +425,7 @@ ninja.data = [{
               window.location.href = "/projects/1_project/";
             },},{id: "projects-eruptive-history-of-volcanoes",
           title: 'Eruptive history of volcanoes',
-          description: "When did these volcanoes erupt?",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-coming-soon",
