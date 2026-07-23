@@ -29,6 +29,7 @@ This work integrates field observations, geophysical measurements and thermodyna
     </div>
 </div>
 <div class="caption">
+The area around Laguna del Maule is comprised by several Pleistocene eroded volcanoes such as the Campanario volcano.
 </div>
 
-The area around Laguna del Maule is comprised by several Pleistocene eroded volcanoes such as the Campanario volcano.
+
