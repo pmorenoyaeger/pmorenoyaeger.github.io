@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Eruptive history of volcanoes"
-description: "When did these volcanoes erupt?" 
+description:
 img: assets/img/20240123_121937.jpg
 importance: 1
 category: work
