@@ -261,3 +261,15 @@ ul.task-list input[type="checkbox"] {
   height: 250px !important;
   object-fit: cover !important;
 }
+
+.project-gallery figure {
+  height: 265px;
+  margin: 0;
+  overflow: hidden;
+}
+
+.project-gallery figure img {
+  width: 100% !important;
+  height: 100% !important;
+  object-fit: cover !important;
+}
