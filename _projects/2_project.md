@@ -23,15 +23,14 @@ Despite the hazard that volcanoes pose to society, in many cases little is known
 </p>
 
 <div class="caption">
-    <!-- Your caption here -->
-</div>
+
 
     Left: <a href="https://geoscience.wisc.edu/people/singer-bradley-s/" target="_blank">Dr. Brad S. Singer</a> and I on the southern flank of Villarrica volcano in 2023. We are standing on a pāhoehoe lava flow that we successfully dated using cosmogenic <sup>3</sup>He, yielding an age of 600 ± 200 years, and which we named Lavas de Catricheo.
 
     Middle: <a href="https://geoscience.wisc.edu/people/singer-bradley-s/" target="_blank">Dr. Brad S. Singer</a> and a helicopter pilot with the majestic Osorno volcano in the background. My colleague Jack Stalla is currently working on constraining the eruptive history of this volcano.
 
     Right: Lago Panguipulli and the town of Choshuenco in the background. This photograph was taken on the flanks of the Choshuenco cones, which we dated using the <sup>40</sup>Ar/<sup>39</sup>Ar method to between 11.5 and 8 ka {%cite moreno2024pleistocene %}.</div>
-
+</div>
 <div class="row justify-content-center">
     <div class="col-sm-10 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/Ar_plateaus.jpg" title="Ar results" class="img-fluid rounded z-depth-1" %}
