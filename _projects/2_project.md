@@ -10,17 +10,18 @@ related_publications: true
 
 Despite the hazard that volcanoes pose to society, in many cases little is known about the timing and magnitude of past eruptions. This is key, as knowing a full history of past eruptions can tell us valuable information about how a future eruption might occur. A volcano is considered active if it has had an eruption during the Holocene (the last 11,700 years). Otherwise, its considered “inactive”. By integrating multiple geochronometers, I have noted that many volcanoes in the Andean arc which were thought to be inactive are actually very active and generated explosive eruptions in the recent past {%cite moreno2024pleistocene %}. This finding has led decision maker institutions to increase the risk level of certain Chilean volcanoes.
 
-<p>
-{% include figure.liquid loading="eager" path="assets/img/DSC_1256.JPG" title="Brad and Pablo" class="img-fluid rounded z-depth-1" zoomable=true %}
-</p>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/DSC_1256.JPG" title="Brad and Pablo" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/helo.jpeg" title="Helo" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/IMG_20200329_144535.jpg" title="Lago" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
 
-<p>
-{% include figure.liquid loading="eager" path="assets/img/helo.jpeg" title="Helo" class="img-fluid rounded z-depth-1" zoomable=true %}
-</p>
-
-<p>
-{% include figure.liquid loading="eager" path="assets/img/IMG_20200329_144535.jpg" title="Lago" class="img-fluid rounded z-depth-1" zoomable=true %}
-</p>
 
 <div class="caption">
 
