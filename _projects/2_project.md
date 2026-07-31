@@ -30,7 +30,7 @@ Despite the hazard that volcanoes pose to society, in many cases little is known
 
     Middle: <a href="https://geoscience.wisc.edu/people/singer-bradley-s/" target="_blank">Dr. Brad S. Singer</a> and a helicopter pilot with the majestic Osorno volcano in the background. My colleague Jack Stalla is currently working on constraining the eruptive history of this volcano.
 
-    Right: Lago Panguipulli and the town of Choshuenco in the background. This photograph was taken on the flanks of the Choshuenco cones, which we dated using the <sup>40</sup>Ar/<sup>39</sup>Ar method to between 11.5 and 8 ka {%cite moreno2024pleistocene %}.</div>
+    Right: Lago Panguipulli and the town of Choshuenco in the background. This photograph was taken on the flanks of the Choshuenco cones, which we dated using the <sup>40</sup>Ar/<sup>39</sup>Ar method to between 11.5 and 8 ka {%cite moreno2024pleistocene %}.
 </div>
 <div class="row justify-content-center">
     <div class="col-sm-10 mt-3 mt-md-0">
