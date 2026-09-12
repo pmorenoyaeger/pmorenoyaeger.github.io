@@ -24,7 +24,7 @@ I am committed to communicating geoscience to broad audiences and increasing acc
 
 ## Invited Talks
 
-* **International Association of Volcanology and Chemistry of the Earth's Interior ** - Impacts of ice sheet loading on magma plumbing systems: Insights from the Andean Southern Volcanic Zone. Available on \href{https://www.youtube.com/watch?v=1JX8JW4SDik}{YouTube}\\ 
+* **International Association of Volcanology and Chemistry of the Earth's Interior** – Impacts of ice sheet loading on magma plumbing systems: Insights from the Andean Southern Volcanic Zone. Available <a href="https://www.youtube.com/watch?v=1JX8JW4SDik">on YouTube</a>. 
 
 * **Association of Latin American Volcanology (ALVO, 2025)** – Invited talk on volcano–ice interactions and glacial controls on volcanism. <a href="https://www.youtube.com/watch?v=fBJNPu_g5Mo&t=3950s" target="_blank">in Spanish, Ver charla</a>
 
