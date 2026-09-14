@@ -2,14 +2,14 @@
 layout: about
 title: Home
 permalink: /
-subtitle: <strong><span style="color:#c5050c;">Postdoctoral Researcher at the University of Wisconsin–Madison</span></strong><br><strong>Geochronology, Geochemistry, and Volcanology</strong>
+subtitle: <strong><span style="color:#c5050c;">Lori Summa and David Awwiller Postdoctoral Fellow at the University of California, Davis</span></strong><br><strong>Geochronology, Geochemistry, and Volcanology</strong>
 
 profile:
   align: right
   image: photo1.jpg
   image_circular: false
   #more_info: >
-  #  <p>Currently Postdoctoral Researcher at the University of Wisconsin–Madison</p>
+  #  <p>Lori Summa and David Awwiller Postdoctoral Fellow at the University of California, DavisLori Summa and David Awwiller Postdoctoral Fellow at the University of California, Davis</p>
 
 selected_papers: false
 social: true
