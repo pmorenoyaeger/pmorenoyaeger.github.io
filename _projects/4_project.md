@@ -1,15 +1,16 @@
 ---
 layout: page
-title: "Integrating geochemical thermodynamic modelling with geophysics"
+title: "Integrating geochemical thermodynamic modeling with geophysics"
 description: 
 img: assets/img/ldm.jpg
 importance: 3
 category: work
 ---
 
-Silicic systems are known to generate the most explosive eruptions in the world due to their high volatile content. Many silicic eruptions occur in continental arcs, which are heavily populated (e.g., the Andean Arc, the Cascades). Understanding how these eruptions occur is then key for understanding and mitigating volcanic hazards. By coupling magma compositions with thermodynamic modelling, I explore what mechanisms can trigger a silicic eruption. I am currently working on these questions with Dr. Basil Tikoff and Dr. Claire Ruggles as a Postdoctoral Researcher. My objective is to systematically explore the composition and physical parameters of the magmas that are injected into the Laguna del Maule Volcanic Field in the Andes. This system is currently experiencing the highest uplifting rates of any volcanic system in the world. 
+Geophysical prospecting such as gravity and seismic survey allows to inspect and explore the behavior on magma plumbing systems during historic times. When couple with geochemical tools and modeling, it can lead to constraints of magma density, volume and interpret the current state of reservoir(s) under a volcanic edifice.
+I am worked with Dr. Basil Tikoff (University of Wisconsin-Madison) and Dr. Claire Ruggles (University of Wyoming) as a Postdoctoral Researcher focused on thermodynamic modeling. My objective was  to systematically test if the dimensions and geophysical constrains using gravity survey match with the known chemical and physical parameters of the erupted magmas at the Laguna del Maule Volcanic Field in the Andes. This system is currently experiencing the highest uplifting rates of any volcanic system in the world. 
 
-I am performing thermodynamic modelling using the MELTS algorithm that combines a suite of intensive magma properties to compare magma chamber compositional changes with available geophysical data.
+For this research, I prrformed thermodynamic modeling using the MELTS algorithm that combines a suite of intensive magma properties to compare magma chamber compositional changes with available geophysical data.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
