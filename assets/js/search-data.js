@@ -433,8 +433,8 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-integrating-geochemical-thermodynamic-modelling-with-geophysics",
-          title: 'Integrating geochemical thermodynamic modelling with geophysics',
+            },},{id: "projects-integrating-geochemical-thermodynamic-modeling-with-geophysics",
+          title: 'Integrating geochemical thermodynamic modeling with geophysics',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
