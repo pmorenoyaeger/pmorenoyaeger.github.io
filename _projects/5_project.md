@@ -31,8 +31,7 @@ I am working with Dr. Kari Cooper as a Postdoctoral Researcher in the Department
 </div>
 
 <div class="caption">
-  Puyehue-Cordón Caulle volcanic complex in southern Chile.
-</div>
+  The white “soil” visible in this video corresponds to deposits from the 2011 Puyehue-Cordón Caulle eruption, which led to the evacuation of ~3,500 people and the cancellation of hundreds of domestic and international flights around the globe. More than a decade later, deposits from this eruption continue to affect communities in Chile, Argentina, and Uruguay through health impacts, livestock losses, contamination of freshwater sources, and vegetation damage. Video by Rachel E. Breunig</div>
 
 <!-- PHOTOS: 2 COLUMNS × 2 ROWS -->
 <div class="row row-cols-2 g-3">
