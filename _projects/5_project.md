@@ -24,7 +24,7 @@ I am working with Dr. Kari Cooper as a Postdoctoral Researcher in the Department
       preload="metadata"
       style="width: 100%;"
     >
-      <source src="{{ '/assets/video/puyehue_video mp4.mp4' | relative_url }}" type="video/mp4">
+      <source src="{{ '/assets/video/puyehue_video.mp4' | relative_url }}" type="video/mp4">
       Your browser does not support the video tag.
     </video>
   </div>
@@ -34,10 +34,10 @@ I am working with Dr. Kari Cooper as a Postdoctoral Researcher in the Department
   Puyehue-Cordón Caulle volcanic complex in southern Chile.
 </div>
 
+<!-- PHOTOS: 2 COLUMNS × 2 ROWS -->
+<div class="row row-cols-2 g-3">
 
-<!-- PHOTOS: FIRST ROW -->
-<div class="row">
-  <div class="col-sm-6 mt-3 mt-md-0">
+  <div class="col">
     <a href="{{ '/assets/img/puyehue1.jpg' | relative_url }}" data-lightbox="puyehue-gallery">
       {% include figure.liquid
         path="assets/img/puyehue1.jpg"
@@ -46,28 +46,24 @@ I am working with Dr. Kari Cooper as a Postdoctoral Researcher in the Department
       %}
     </a>
     <div class="caption">
-      Caption for photo 1.
+      Tephra from the 2011 eruption in the Chilean-Argentinian border
     </div>
   </div>
 
-  <div class="col-sm-6 mt-3 mt-md-0">
-    <a href="{{ '/assets/img/puyehue2.jpg' | relative_url }}" data-lightbox="puyehue-gallery">
+  <div class="col">
+    <a href="{{ '/assets/img/puyehue2.jpeg' | relative_url }}" data-lightbox="puyehue-gallery">
       {% include figure.liquid
-        path="assets/img/puyehue2.jpg"
+        path="assets/img/puyehue2.jpeg"
         title="Puyehue-Cordón Caulle"
         class="img-fluid rounded z-depth-1"
       %}
     </a>
     <div class="caption">
-      Caption for photo 2.
+      Tephra from the 2011 eruption in the Chilean-Argentinian border. Photo by Rachel E. Breunig
     </div>
   </div>
-</div>
 
-
-<!-- PHOTOS: SECOND ROW -->
-<div class="row">
-  <div class="col-sm-6 mt-3 mt-md-0">
+  <div class="col">
     <a href="{{ '/assets/img/puyehue3.jpg' | relative_url }}" data-lightbox="puyehue-gallery">
       {% include figure.liquid
         path="assets/img/puyehue3.jpg"
@@ -76,11 +72,11 @@ I am working with Dr. Kari Cooper as a Postdoctoral Researcher in the Department
       %}
     </a>
     <div class="caption">
-      Caption for photo 3.
+      Section of tephras from Antillanca, Mocho-Choshuenco and Puyehue-Cordón Caulle volcanoes near Villa Angostura, Argentina
     </div>
   </div>
 
-  <div class="col-sm-6 mt-3 mt-md-0">
+  <div class="col">
     <a href="{{ '/assets/img/puyehue4.jpg' | relative_url }}" data-lightbox="puyehue-gallery">
       {% include figure.liquid
         path="assets/img/puyehue4.jpg"
@@ -89,7 +85,8 @@ I am working with Dr. Kari Cooper as a Postdoctoral Researcher in the Department
       %}
     </a>
     <div class="caption">
-      Caption for photo 4.
+      Section of tephras from Antillanca and Puyehue-Cordón Caulle volcanoes near Villa Angostura, Argentina
     </div>
   </div>
+
 </div>
