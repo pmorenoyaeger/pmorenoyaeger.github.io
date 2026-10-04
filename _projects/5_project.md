@@ -5,31 +5,95 @@ description:
 img: assets/img/puyehue.jpg
 importance: 1
 category: work
+
+images: 
+    lightbox2: true
 ---
 
-Silicic systems are known to generate the most explosive eruptions in the world due to their high volatile content. Many silicic eruptions occur in continental arcs, which are heavily populated (e.g., the Andean Arc, the Cascades). Understanding how these eruptions occur is then key for understanding and mitigating volcanic hazards. By coupling magma compositions with thermodynamic modelling, I explore what mechanisms can trigger a silicic eruption. I am currently working on these questions with Dr. Basil Tikoff and Dr. Claire Ruggles as a Postdoctoral Researcher. My objective is to systematically explore the composition and physical parameters of the magmas that are injected into the Laguna del Maule Volcanic Field in the Andes. This system is currently experiencing the highest uplifting rates of any volcanic system in the world. 
+Silicic volcanic systems are capable of generating some of the most explosive eruptions on Earth because of their high volatile contents. Many of these systems occur in continental arcs that are heavily populated, such as the Andean Arc and the Cascades. Despite their potential hazards, fundamental questions remain unresolved: (1) what triggers a silicic eruption, and (2) what are the timescales between the triggering process and eruption?
 
-I am performing thermodynamic modelling using the MELTS algorithm that combines a suite of intensive magma properties to compare magma chamber compositional changes with available geophysical data.
+I am working with Dr. Kari Cooper as a Postdoctoral Researcher in the Department of Earth and Planetary Sciences at the University of California, Davis. My research focuses on reconstructing the thermal and magmatic history of reservoirs that feed eruptions at Puyehue-Cordón Caulle volcano, a major silicic volcanic system in southern Chile. To do this, I integrate <sup>238</sup>U–<sup>230</sup>Th–<sup>226</sup>Ra disequilibrium dating with Ba–Sr diffusion modeling of plagioclase crystals hosted in lavas and tephras from Late Holocene eruptions.
 
+<!-- VIDEO -->
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/ldm.jpg" title="Laguna del Maule" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    The Laguna del Maule volcanic field is the fastest-inflating volcanic system in the world.
-</div>
-
-
-This work integrates field observations, geophysical measurements and thermodynamic modelling.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/Old_volcano.jpg" title="Old volcano" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-The area around Laguna del Maule is comprised by several Pleistocene eroded volcanoes such as the Campanario volcano.
+  <div class="col-sm mt-3 mt-md-0">
+    <video
+      class="img-fluid rounded z-depth-1"
+      controls
+      playsinline
+      preload="metadata"
+      style="width: 100%;"
+    >
+      <source src="{{ '/assets/video/puyehue_video.mp4' | relative_url }}" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+  </div>
 </div>
 
 
+<!-- PHOTOS: FIRST ROW -->
+<div class="row">
+  <div class="col-sm-4 mt-3 mt-md-0">
+    <a href="{{ '/assets/img/puyehue_1.jpg' | relative_url }}" data-lightbox="puyehue-gallery">
+      {% include figure.liquid
+        path="assets/img/puyehue_1.jpg"
+        title="Puyehue"
+        class="img-fluid rounded z-depth-1"
+      %}
+    </a>
+  </div>
+
+  <div class="col-sm-4 mt-3 mt-md-0">
+    <a href="{{ '/assets/img/puyehue_2.jpg' | relative_url }}" data-lightbox="puyehue-gallery">
+      {% include figure.liquid
+        path="assets/img/puyehue_2.jpg"
+        title="Puyehue"
+        class="img-fluid rounded z-depth-1"
+      %}
+    </a>
+  </div>
+
+  <div class="col-sm-4 mt-3 mt-md-0">
+    <a href="{{ '/assets/img/puyehue_3.jpg' | relative_url }}" data-lightbox="puyehue-gallery">
+      {% include figure.liquid
+        path="assets/img/puyehue_3.jpg"
+        title="Puyehue"
+        class="img-fluid rounded z-depth-1"
+      %}
+    </a>
+  </div>
+</div>
+
+
+<!-- PHOTOS: SECOND ROW -->
+<div class="row">
+  <div class="col-sm-4 mt-3 mt-md-0">
+    <a href="{{ '/assets/img/puyehue_4.jpg' | relative_url }}" data-lightbox="puyehue-gallery">
+      {% include figure.liquid
+        path="assets/img/puyehue_4.jpg"
+        title="Puyehue"
+        class="img-fluid rounded z-depth-1"
+      %}
+    </a>
+  </div>
+
+  <div class="col-sm-4 mt-3 mt-md-0">
+    <a href="{{ '/assets/img/puyehue_5.jpg' | relative_url }}" data-lightbox="puyehue-gallery">
+      {% include figure.liquid
+        path="assets/img/puyehue_5.jpg"
+        title="Puyehue"
+        class="img-fluid rounded z-depth-1"
+      %}
+    </a>
+  </div>
+
+  <div class="col-sm-4 mt-3 mt-md-0">
+    <a href="{{ '/assets/img/puyehue_6.jpg' | relative_url }}" data-lightbox="puyehue-gallery">
+      {% include figure.liquid
+        path="assets/img/puyehue_6.jpg"
+        title="Puyehue"
+        class="img-fluid rounded z-depth-1"
+      %}
+    </a>
+  </div>
+</div>
