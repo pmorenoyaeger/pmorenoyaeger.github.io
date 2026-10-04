@@ -24,7 +24,7 @@ I am working with Dr. Kari Cooper as a Postdoctoral Researcher in the Department
       preload="metadata"
       style="width: 100%;"
     >
-      <source src="{{ '/assets/video/puyehue_video.MOV' | relative_url }}" type="video/quicktime">
+      <source src="{{ '/assets/video/puyehue_video mp4.mp4' | relative_url }}" type="video/mp4">
       Your browser does not support the video tag.
     </video>
   </div>
