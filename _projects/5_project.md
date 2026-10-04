@@ -31,73 +31,65 @@ I am working with Dr. Kari Cooper as a Postdoctoral Researcher in the Department
 </div>
 
 <div class="caption">
-  The white ash you see in this video corresponds to the last eruption from Puyehue-Cordón Caulle in 2011. It led to the evacuation of ~3500 people and the airlines cancelling hundreds of domestic and international flights around the globe. The eruption is still affecting people, livestock, water sources and vegetation in Chile, Argentina and Uruguay.
-
+  Puyehue-Cordón Caulle volcanic complex in southern Chile.
 </div>
+
 
 <!-- PHOTOS: FIRST ROW -->
 <div class="row">
-  <div class="col-sm-4 mt-3 mt-md-0">
-    <a href="{{ '/assets/img/puyehue_1.jpeg' | relative_url }}" data-lightbox="puyehue-gallery">
+  <div class="col-sm-6 mt-3 mt-md-0">
+    <a href="{{ '/assets/img/puyehue1.jpg' | relative_url }}" data-lightbox="puyehue-gallery">
       {% include figure.liquid
-        path="assets/img/puyehue_1.jpeg"
-        title="Puyehue"
+        path="assets/img/puyehue1.jpg"
+        title="Puyehue-Cordón Caulle"
         class="img-fluid rounded z-depth-1"
       %}
     </a>
+    <div class="caption">
+      Caption for photo 1.
+    </div>
   </div>
 
-  <div class="col-sm-4 mt-3 mt-md-0">
-    <a href="{{ '/assets/img/puyehue_2.jpeg' | relative_url }}" data-lightbox="puyehue-gallery">
+  <div class="col-sm-6 mt-3 mt-md-0">
+    <a href="{{ '/assets/img/puyehue2.jpg' | relative_url }}" data-lightbox="puyehue-gallery">
       {% include figure.liquid
-        path="assets/img/puyehue_2.jpeg"
-        title="Puyehue"
+        path="assets/img/puyehue2.jpg"
+        title="Puyehue-Cordón Caulle"
         class="img-fluid rounded z-depth-1"
       %}
     </a>
-  </div>
-
-  <div class="col-sm-4 mt-3 mt-md-0">
-    <a href="{{ '/assets/img/puyehue_3.jpeg' | relative_url }}" data-lightbox="puyehue-gallery">
-      {% include figure.liquid
-        path="assets/img/puyehue_3.jpeg"
-        title="Puyehue"
-        class="img-fluid rounded z-depth-1"
-      %}
-    </a>
+    <div class="caption">
+      Caption for photo 2.
+    </div>
   </div>
 </div>
 
 
 <!-- PHOTOS: SECOND ROW -->
 <div class="row">
-  <div class="col-sm-4 mt-3 mt-md-0">
-    <a href="{{ '/assets/img/puyehue_4.jpeg' | relative_url }}" data-lightbox="puyehue-gallery">
+  <div class="col-sm-6 mt-3 mt-md-0">
+    <a href="{{ '/assets/img/puyehue3.jpg' | relative_url }}" data-lightbox="puyehue-gallery">
       {% include figure.liquid
-        path="assets/img/puyehue_4.jpeg"
-        title="Puyehue"
+        path="assets/img/puyehue3.jpg"
+        title="Puyehue-Cordón Caulle"
         class="img-fluid rounded z-depth-1"
       %}
     </a>
+    <div class="caption">
+      Caption for photo 3.
+    </div>
   </div>
 
-  <div class="col-sm-4 mt-3 mt-md-0">
-    <a href="{{ '/assets/img/puyehue_5.jpeg' | relative_url }}" data-lightbox="puyehue-gallery">
+  <div class="col-sm-6 mt-3 mt-md-0">
+    <a href="{{ '/assets/img/puyehue4.jpg' | relative_url }}" data-lightbox="puyehue-gallery">
       {% include figure.liquid
-        path="assets/img/puyehue_5.jpeg"
-        title="Puyehue"
+        path="assets/img/puyehue4.jpg"
+        title="Puyehue-Cordón Caulle"
         class="img-fluid rounded z-depth-1"
       %}
     </a>
-  </div>
-
-  <div class="col-sm-4 mt-3 mt-md-0">
-    <a href="{{ '/assets/img/puyehue_6.jpeg' | relative_url }}" data-lightbox="puyehue-gallery">
-      {% include figure.liquid
-        path="assets/img/puyehue_6.jpeg"
-        title="Puyehue"
-        class="img-fluid rounded z-depth-1"
-      %}
-    </a>
+    <div class="caption">
+      Caption for photo 4.
+    </div>
   </div>
 </div>
