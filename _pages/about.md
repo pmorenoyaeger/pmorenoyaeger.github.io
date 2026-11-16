@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: <strong><span style="color:#1D4ED8;">Lori Summa and David Awwiller Postdoctoral Fellow at the University of California, Davis</span></strong><br><strong>Geochronology, Geochemistry, and Volcanology</strong>
+subtitle: <strong><span style="color:#c5050c;">Lori Summa and David Awwiller Postdoctoral Fellow at the University of California, Davis</span></strong><br><strong>Geochronology, Geochemistry, and Volcanology</strong>
 
 profile:
   align: right
